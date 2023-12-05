@@ -41,5 +41,10 @@ struct IconView: View {
 }
 
 #Preview {
+    IconView(iconPath: "snowflake", withBackground: true)
+        .preferredColorScheme(.dark)
+}
+
+#Preview {
     IconView(iconPath: "mountain")
 }

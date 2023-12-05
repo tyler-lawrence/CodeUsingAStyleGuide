@@ -16,11 +16,9 @@
 		5B4BC64E2B17CEDF00B69B30 /* IconBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4BC64D2B17CEDF00B69B30 /* IconBackground.swift */; };
 		5B4BC6612B1A1A7F00B69B30 /* Font+custom.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4BC6602B1A1A7F00B69B30 /* Font+custom.swift */; };
 		5B4BC6632B1A26F800B69B30 /* Helvetica.ttc in Resources */ = {isa = PBXBuildFile; fileRef = 5B4BC6622B1A26F800B69B30 /* Helvetica.ttc */; };
-		5B4BC6652B1A3AB500B69B30 /* Arial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5B4BC6642B1A3AB500B69B30 /* Arial.ttf */; };
 		5B4BC6672B1A3E1900B69B30 /* CalloutRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4BC6662B1A3E1900B69B30 /* CalloutRowView.swift */; };
 		5B4BC6692B1A40E900B69B30 /* IconView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4BC6682B1A40E900B69B30 /* IconView.swift */; };
 		5B4BC66B2B1A449900B69B30 /* DestinationDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B4BC66A2B1A449900B69B30 /* DestinationDetailsView.swift */; };
-		5B95EDC02B1F61EE002E7CD2 /* calloutButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B95EDBF2B1F61EE002E7CD2 /* calloutButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,11 +33,9 @@
 		5B4BC6552B1A181700B69B30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		5B4BC6602B1A1A7F00B69B30 /* Font+custom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Font+custom.swift"; sourceTree = "<group>"; };
 		5B4BC6622B1A26F800B69B30 /* Helvetica.ttc */ = {isa = PBXFileReference; lastKnownFileType = file; path = Helvetica.ttc; sourceTree = "<group>"; };
-		5B4BC6642B1A3AB500B69B30 /* Arial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Arial.ttf; sourceTree = "<group>"; };
 		5B4BC6662B1A3E1900B69B30 /* CalloutRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalloutRowView.swift; sourceTree = "<group>"; };
 		5B4BC6682B1A40E900B69B30 /* IconView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconView.swift; sourceTree = "<group>"; };
 		5B4BC66A2B1A449900B69B30 /* DestinationDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DestinationDetailsView.swift; sourceTree = "<group>"; };
-		5B95EDBF2B1F61EE002E7CD2 /* calloutButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = calloutButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,7 +94,6 @@
 				5B4BC6412B17C9EA00B69B30 /* DestinationsView.swift */,
 				5B4BC66A2B1A449900B69B30 /* DestinationDetailsView.swift */,
 				5B4BC6492B17CC6B00B69B30 /* FeatureRowView.swift */,
-				5B95EDBF2B1F61EE002E7CD2 /* calloutButton.swift */,
 				5B4BC6662B1A3E1900B69B30 /* CalloutRowView.swift */,
 				5B4BC6682B1A40E900B69B30 /* IconView.swift */,
 			);
@@ -110,7 +105,6 @@
 			children = (
 				5B4BC6602B1A1A7F00B69B30 /* Font+custom.swift */,
 				5B4BC6622B1A26F800B69B30 /* Helvetica.ttc */,
-				5B4BC6642B1A3AB500B69B30 /* Arial.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -175,7 +169,6 @@
 			files = (
 				5B0033D62B16404F0012707C /* Preview Assets.xcassets in Resources */,
 				5B0033D32B16404F0012707C /* Assets.xcassets in Resources */,
-				5B4BC6652B1A3AB500B69B30 /* Arial.ttf in Resources */,
 				5B4BC6632B1A26F800B69B30 /* Helvetica.ttc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -195,7 +188,6 @@
 				5B0033D12B16404E0012707C /* ContentView.swift in Sources */,
 				5B4BC6672B1A3E1900B69B30 /* CalloutRowView.swift in Sources */,
 				5B4BC64A2B17CC6B00B69B30 /* FeatureRowView.swift in Sources */,
-				5B95EDC02B1F61EE002E7CD2 /* calloutButton.swift in Sources */,
 				5B0033CF2B16404E0012707C /* CodeUsingAStyleGuideApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

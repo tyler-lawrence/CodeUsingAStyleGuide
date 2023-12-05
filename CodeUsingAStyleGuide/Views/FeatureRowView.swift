@@ -37,6 +37,7 @@ struct FeatureRowView: View {
 }
 
 #Preview {
+    // testing to see how a long string will change the view
     FeatureRowView(title: "Legendary Snow", copy: "More than 400” annual snowfall. More than 400” anasdfasdfasdfasdfnual snowfall", iconPath: "snowflake")
 }
 

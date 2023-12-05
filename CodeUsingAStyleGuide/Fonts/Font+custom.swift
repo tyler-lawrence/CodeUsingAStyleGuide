@@ -10,7 +10,7 @@ import SwiftUI
 
 enum CustomFont: String {
     case helvetica = "Helvetica"
-    case arial = "Arial"
+    #warning("add case for arial. this includes adding the font file to the project")
 }
 
 enum CustomFontSize: CGFloat {
