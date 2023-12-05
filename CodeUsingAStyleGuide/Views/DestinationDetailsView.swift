@@ -18,7 +18,7 @@ struct DestinationDetailsView: View {
                 FeatureRowView(title: "Legendary Snow", copy: "More than 400 inches of snowfall", iconPath: "snowflake")
                 #warning("add the featureRowView for Huge Terrain")
                 
-                #warning("add the callouRowView")
+                #warning("add the calloutRowView")
                 
                 Button("Order Now!"){
                     showingOrderAlert.toggle()
