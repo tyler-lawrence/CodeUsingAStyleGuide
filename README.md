@@ -1,8 +1,5 @@
 # CodeUsingAStyleGuide
 
-TASKS:
+You recently joined an app development team contracted to build an app for a ski resort. They have a style guide with annotations. The project has already been started so some of the features exist and there are some that we'll need to add.
 
-1. Add powderBlue as an accent color.
-2. Use a resource to help you determine how to modify the accent color for Dark Mode.
-3. Add the rest of the color set.
-4. 
+In the Xcode project there are warnings for each task to accomplish.
