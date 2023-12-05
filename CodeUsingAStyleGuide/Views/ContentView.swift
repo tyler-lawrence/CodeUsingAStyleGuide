@@ -8,14 +8,16 @@
 import SwiftUI
 
 struct ContentView: View {
-
     var body: some View {
-        
         DestinationsView()
-            
     }
 }
 
 #Preview {
     ContentView()
+}
+
+#Preview {
+    ContentView()
+        .preferredColorScheme(.dark)
 }
